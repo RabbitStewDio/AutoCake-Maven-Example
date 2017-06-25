@@ -6,12 +6,12 @@ control a Maven based Java project.
 You can start a release with 
 
     # PowerShell on Windows
-    build.cmd -Script release.cake
+    release.cmd
 
 or
 
     # Linux
-    build.sh -script release.cake
+    release.sh 
  
 
 ## This Maven sample project
